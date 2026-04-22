@@ -1,1 +1,0 @@
-These projects are done in winForm and MVC
