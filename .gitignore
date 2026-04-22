@@ -3,6 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 !CSharp-WinForm-MVC-API/
+!CSharp-WinForm-MVC-API/**
 # User-specific files
 *.rsuser
 *.suo
