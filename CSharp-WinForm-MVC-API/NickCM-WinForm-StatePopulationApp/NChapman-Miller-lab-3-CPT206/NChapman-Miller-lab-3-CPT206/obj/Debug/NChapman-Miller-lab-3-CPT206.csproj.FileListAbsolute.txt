@@ -1,0 +1,17 @@
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\bin\Debug\StateInfo.mdf
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\bin\Debug\StateInfo_log.ldf
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\bin\Debug\statedata.csv
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\bin\Debug\NChapman-Miller-lab-3-CPT206.exe.config
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\bin\Debug\NChapman-Miller-lab-3-CPT206.exe
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\bin\Debug\NChapman-Miller-lab-3-CPT206.pdb
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\bin\Debug\StatesDBLibrary.dll
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\bin\Debug\StatesDBLibrary.pdb
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman-Miller-lab-3-CPT206.csproj.AssemblyReference.cache
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman_Miller_lab_3_CPT206.Form1.resources
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman_Miller_lab_3_CPT206.Properties.Resources.resources
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman_Miller_lab_3_CPT206.StatePage.resources
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman-Miller-lab-3-CPT206.csproj.GenerateResource.cache
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman-Miller-lab-3-CPT206.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman.1882856C.Up2Date
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman-Miller-lab-3-CPT206.exe
+C:\Users\thesh\source\repos\state-population-app-NickC-M\NChapman-Miller-lab-3-CPT206\NChapman-Miller-lab-3-CPT206\obj\Debug\NChapman-Miller-lab-3-CPT206.pdb

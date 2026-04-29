@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9286B0CE-BCD6-4B4B-9727-AF1BFC5C7D5C}|StatesDBLibrary\\StatesDBLibrary.csproj|C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\statesdblibrary\\dbmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9286B0CE-BCD6-4B4B-9727-AF1BFC5C7D5C}|StatesDBLibrary\\StatesDBLibrary.csproj|solutionrelative:statesdblibrary\\dbmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9286B0CE-BCD6-4B4B-9727-AF1BFC5C7D5C}|StatesDBLibrary\\StatesDBLibrary.csproj|c:\\users\\thesh\\source\\repos\\state-population-app-nickc-m\\nchapman-miller-lab-3-cpt206\\statesdblibrary\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9286B0CE-BCD6-4B4B-9727-AF1BFC5C7D5C}|StatesDBLibrary\\StatesDBLibrary.csproj|solutionrelative:statesdblibrary\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FE9996-F6AD-4C15-A405-8E30DA7C6EAF}|NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206.csproj|C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\nchapman-miller-lab-3-cpt206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FE9996-F6AD-4C15-A405-8E30DA7C6EAF}|NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206.csproj|solutionrelative:nchapman-miller-lab-3-cpt206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FE9996-F6AD-4C15-A405-8E30DA7C6EAF}|NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206.csproj|C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\nchapman-miller-lab-3-cpt206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01FE9996-F6AD-4C15-A405-8E30DA7C6EAF}|NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206.csproj|solutionrelative:nchapman-miller-lab-3-cpt206\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FE9996-F6AD-4C15-A405-8E30DA7C6EAF}|NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206.csproj|C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\nchapman-miller-lab-3-cpt206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FE9996-F6AD-4C15-A405-8E30DA7C6EAF}|NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206.csproj|solutionrelative:nchapman-miller-lab-3-cpt206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206\\Program.cs",
+              "RelativeDocumentMoniker": "NChapman-Miller-lab-3-CPT206\\Program.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206\\Program.cs",
+              "RelativeToolTip": "NChapman-Miller-lab-3-CPT206\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:56:19.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBMethods.cs",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\StatesDBLibrary\\DBMethods.cs",
+              "RelativeDocumentMoniker": "StatesDBLibrary\\DBMethods.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\StatesDBLibrary\\DBMethods.cs",
+              "RelativeToolTip": "StatesDBLibrary\\DBMethods.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:56:11.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\StatesDBLibrary\\State.cs",
+              "RelativeDocumentMoniker": "StatesDBLibrary\\State.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\StatesDBLibrary\\State.cs",
+              "RelativeToolTip": "StatesDBLibrary\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:54:28.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206\\Form1.cs",
+              "RelativeDocumentMoniker": "NChapman-Miller-lab-3-CPT206\\Form1.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206\\Form1.cs",
+              "RelativeToolTip": "NChapman-Miller-lab-3-CPT206\\Form1.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:54:16.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206\\Form1.cs",
+              "RelativeDocumentMoniker": "NChapman-Miller-lab-3-CPT206\\Form1.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\state-population-app-NickC-M\\NChapman-Miller-lab-3-CPT206\\NChapman-Miller-lab-3-CPT206\\Form1.cs [Design]",
+              "RelativeToolTip": "NChapman-Miller-lab-3-CPT206\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:54:12.712Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
