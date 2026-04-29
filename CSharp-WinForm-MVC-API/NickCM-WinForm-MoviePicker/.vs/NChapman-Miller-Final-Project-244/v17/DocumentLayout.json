@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|c:\\users\\thesh\\source\\repos\\nchapman-miller-final-project-244\\nchapman-miller-final-project-244\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|solutionrelative:nchapman-miller-final-project-244\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\nchapman-miller-final-project-244\\suggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|solutionrelative:nchapman-miller-final-project-244\\suggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\nchapman-miller-final-project-244\\suggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|solutionrelative:nchapman-miller-final-project-244\\suggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\nchapman-miller-final-project-244\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|solutionrelative:nchapman-miller-final-project-244\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\nchapman-miller-final-project-244\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A7BC740-9B82-4376-AEA7-5E232BF5C3AA}|NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244.csproj|solutionrelative:nchapman-miller-final-project-244\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suggestion.cs",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Suggestion.cs",
+              "RelativeDocumentMoniker": "NChapman-Miller-Final-Project-244\\Suggestion.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Suggestion.cs",
+              "RelativeToolTip": "NChapman-Miller-Final-Project-244\\Suggestion.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:56:39.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suggestion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Suggestion.cs",
+              "RelativeDocumentMoniker": "NChapman-Miller-Final-Project-244\\Suggestion.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Suggestion.cs [Design]",
+              "RelativeToolTip": "NChapman-Miller-Final-Project-244\\Suggestion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:56:33.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Form1.cs",
+              "RelativeDocumentMoniker": "NChapman-Miller-Final-Project-244\\Form1.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Form1.cs",
+              "RelativeToolTip": "NChapman-Miller-Final-Project-244\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:23:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Movie.cs",
+              "RelativeDocumentMoniker": "NChapman-Miller-Final-Project-244\\Movie.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Movie.cs",
+              "RelativeToolTip": "NChapman-Miller-Final-Project-244\\Movie.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:17:37.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Form1.cs",
+              "RelativeDocumentMoniker": "NChapman-Miller-Final-Project-244\\Form1.cs",
+              "ToolTip": "C:\\Users\\thesh\\source\\repos\\NChapman-Miller-Final-Project-244\\NChapman-Miller-Final-Project-244\\Form1.cs [Design]",
+              "RelativeToolTip": "NChapman-Miller-Final-Project-244\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:17:03.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

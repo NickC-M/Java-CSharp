@@ -1,0 +1,12 @@
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\bin\Debug\NChapman-Miller-Final-Project-244.exe.config
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\bin\Debug\NChapman-Miller-Final-Project-244.exe
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\bin\Debug\NChapman-Miller-Final-Project-244.pdb
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman-Miller-Final-Project-244.csproj.AssemblyReference.cache
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman_Miller_Final_Project_244.frmMain.resources
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman_Miller_Final_Project_244.Properties.Resources.resources
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman-Miller-Final-Project-244.csproj.GenerateResource.cache
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman-Miller-Final-Project-244.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman-Miller-Final-Project-244.exe
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman-Miller-Final-Project-244.pdb
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman-Miller-Final-Project-244.exe.config
+C:\Users\thesh\source\repos\NChapman-Miller-Final-Project-244\NChapman-Miller-Final-Project-244\obj\Debug\NChapman_Miller_Final_Project_244.Suggestion.resources
