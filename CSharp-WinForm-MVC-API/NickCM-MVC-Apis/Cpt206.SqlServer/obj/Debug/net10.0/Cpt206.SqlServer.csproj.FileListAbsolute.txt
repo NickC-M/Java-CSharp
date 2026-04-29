@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\Cpt206.SqlServer\bin\Debug\net10.0\Cpt206.SqlServer.deps.json
+C:\Users\thesh\source\repos\Cpt206.SqlServer\bin\Debug\net10.0\Cpt206.SqlServer.runtimeconfig.json
+C:\Users\thesh\source\repos\Cpt206.SqlServer\bin\Debug\net10.0\Cpt206.SqlServer.dll
+C:\Users\thesh\source\repos\Cpt206.SqlServer\bin\Debug\net10.0\Cpt206.SqlServer.pdb
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\Cpt206.SqlServer.csproj.AssemblyReference.cache
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\Cpt206.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\Cpt206.SqlServer.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\Cpt206.SqlServer.AssemblyInfo.cs
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\Cpt206.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\Cpt206.SqlServer.dll
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\refint\Cpt206.SqlServer.dll
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\Cpt206.SqlServer.pdb
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\Cpt206.SqlServer.genruntimeconfig.cache
+C:\Users\thesh\source\repos\Cpt206.SqlServer\obj\Debug\net10.0\ref\Cpt206.SqlServer.dll

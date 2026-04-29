@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-TestWebMVC2-d1b54ff3-0354-4b36-8e2d-b46b24e82d4a</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\categories.jpg" />
+    <None Include="wwwroot\images\category1.jpg" />
+    <None Include="wwwroot\images\category2.jpg" />
+    <None Include="wwwroot\images\category3.jpg" />
+    <None Include="wwwroot\images\category4.jpg" />
+    <None Include="wwwroot\images\category5.jpg" />
+    <None Include="wwwroot\images\category6.jpg" />
+    <None Include="wwwroot\images\category7.jpg" />
+    <None Include="wwwroot\images\category8.jpg" />
+  </ItemGroup>
+	<ItemGroup>
+		<Compile Remove="obj\**" />
+	</ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="10.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="10.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="10.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataContext.SqlServer\DataContext.SqlServer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Northwind.Common">
+      <HintPath>..\Northwind.Common\bin\Debug\net10.0\Northwind.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

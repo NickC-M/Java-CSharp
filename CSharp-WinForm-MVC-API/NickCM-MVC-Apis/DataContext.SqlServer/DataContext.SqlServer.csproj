@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net10.0\DataContext.SqlServer.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net10.0\DataContext.SqlServer.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net10.0\DataContext.SqlServer.deps.json" />
+    <Content Include="bin\Debug\net10.0\DataContext.SqlServer.runtimeconfig.json" />
+    <Content Include="obj\DataContext.SqlServer.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net10.0\DataContext.SqlServer.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net10.0\Cpt206.SqlServer.dll" />
+    <None Include="bin\Debug\net10.0\Cpt206.SqlServer.pdb" />
+    <None Include="bin\Debug\net10.0\DataContext.SqlServer.dll" />
+    <None Include="bin\Debug\net10.0\DataContext.SqlServer.pdb" />
+    <None Include="obj\DataContext.SqlServer.csproj.nuget.g.props" />
+    <None Include="obj\DataContext.SqlServer.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net10.0\DataCont.08B9E1C1.Up2Date" />
+    <None Include="obj\Debug\net10.0\DataContext.SqlServer.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net10.0\DataContext.SqlServer.assets.cache" />
+    <None Include="obj\Debug\net10.0\DataContext.SqlServer.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net10.0\DataContext.SqlServer.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net10.0\DataContext.SqlServer.dll" />
+    <None Include="obj\Debug\net10.0\DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net10.0\DataContext.SqlServer.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net10.0\DataContext.SqlServer.pdb" />
+    <None Include="obj\Debug\net10.0\refint\DataContext.SqlServer.dll" />
+    <None Include="obj\Debug\net10.0\ref\DataContext.SqlServer.dll" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cpt206.SqlServer\Cpt206.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>

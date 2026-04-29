@@ -1,0 +1,11 @@
+C:\Users\thesh\source\repos\Northwind.Common\bin\Debug\net10.0\Northwind.Common.deps.json
+C:\Users\thesh\source\repos\Northwind.Common\bin\Debug\net10.0\Northwind.Common.dll
+C:\Users\thesh\source\repos\Northwind.Common\bin\Debug\net10.0\Northwind.Common.pdb
+C:\Users\thesh\source\repos\Northwind.Common\obj\Debug\net10.0\Northwind.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\Northwind.Common\obj\Debug\net10.0\Northwind.Common.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\Northwind.Common\obj\Debug\net10.0\Northwind.Common.AssemblyInfo.cs
+C:\Users\thesh\source\repos\Northwind.Common\obj\Debug\net10.0\Northwind.Common.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\Northwind.Common\obj\Debug\net10.0\Northwind.Common.dll
+C:\Users\thesh\source\repos\Northwind.Common\obj\Debug\net10.0\refint\Northwind.Common.dll
+C:\Users\thesh\source\repos\Northwind.Common\obj\Debug\net10.0\Northwind.Common.pdb
+C:\Users\thesh\source\repos\Northwind.Common\obj\Debug\net10.0\ref\Northwind.Common.dll
